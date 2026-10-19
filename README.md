@@ -83,6 +83,13 @@ Makefile     編譯設定
 
 ## 🖼️ 測試截圖
 
+| 背景執行與 PID | 輸入／輸出重新導向 |
+|---|---|
+| ![背景執行](<screenshots/sleep 10 & ps 背景測試.png>) | ![重新導向](<screenshots/Redirection 測試.png>) |
+| **內建指令 cd / pwd / exit** | **錯誤處理** |
+| ![內建指令](<screenshots/內建指令測試.png>) | ![錯誤處理](<screenshots/錯誤測試.png>) |
+
+
 截圖都在 [`screenshots/`](screenshots/)：
 
 | 截圖 | 內容 |
